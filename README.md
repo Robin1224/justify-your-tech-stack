@@ -32,6 +32,10 @@ Content management in Hygraph heeft naar mijn mening best een hoge learning curv
 
 Ook heeft het werken met Hygraph als developer een hoge learning curve. Het gebruikt namelijk GraphQL voor de queries. Dit zorgt ervoor dat je meer fine-grained controle hebt over de data die je van je CMS vraagt, maar het betekent ook dat je veel meer tijd kwijt bent aan het schrijven van queries en dat deze vaak erg groot en lastiger te begrijpen zijn voor iemand die minder ervaring heeft met GraphQL.
 
+## Presentatie
+
+[https://docs.google.com/presentation/d/1LnpP84Xe-InJ3H6-mW6QqZ6dzgINHxAD2lrBlRAF3oI/edit?usp=sharing](https://docs.google.com/presentation/d/1LnpP84Xe-InJ3H6-mW6QqZ6dzgINHxAD2lrBlRAF3oI/edit?usp=sharing)
+
 ## Licentie
 
 This project is licensed under the terms of the [MIT license](./LICENSE).
